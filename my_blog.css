@@ -5,6 +5,21 @@ h1 {
   font-family: Georgia;
 }
 
+h5 {
+  font-family: Verdana;
+  font-size: 18px;
+}
+
 .intro {
   font-family: Verdana;
+}
+
+#chefcat {
+  height: 360px;
+  width: 360px;
+}
+
+.pics img {
+  border-style: groove;
+  border-color: grey;
 }
