@@ -1,0 +1,17 @@
+input[type=text] {
+  width: 200px;
+  height: 25px;
+  margin: 5px;
+}
+
+input[name=content] {
+  width: 400px;
+  height: 200px;
+}
+
+button {
+  background-color: lightblue;
+  width: 150px;
+  height: 30px;
+  margin-top: 5px;
+}
